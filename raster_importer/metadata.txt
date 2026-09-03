@@ -1,0 +1,17 @@
+[general]
+name=Raster Importer
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+description=Importiert Rasterbilder und passt sie optional sofort an den aktuellen Kartenausschnitt an.
+version=1.5.2
+author=Copilot
+email=deine.email@example.com
+about=Importiert Rasterdateien (JPG, PNG, TIF uvm.) und georeferenziert sie temporär via GDAL VRT auf den aktuellen Kartenausschnitt.
+tracker=https://github.com/dein-account/raster_importer/issues
+repository=https://github.com/dein-account/raster_importer
+icon=icon.svg
+tags=raster, import, vrt, georeferencing, canvas, extent
+homepage=https://github.com/dein-account/raster_importer
+category=Raster
+experimental=False
+deprecated=False
